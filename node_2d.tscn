@@ -24203,6 +24203,8 @@ position = Vector2(145, 85)
 shape = SubResource("RectangleShape2D_8at6f")
 
 [node name="ColorRect" type="ColorRect" parent="RigidBody2D"]
-offset_right = 40.0
-offset_bottom = 40.0
+offset_left = 69.0
+offset_top = -7.0
+offset_right = 109.0
+offset_bottom = 33.0
 color = Color(1.73271e-05, 0.55443, 0.11469, 1)
